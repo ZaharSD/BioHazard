@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 741a1828dc2936e47a8299297b55762d, type: 3}
+  m_Name: Game Levels
+  m_EditorClassIdentifier: 
+  _levels:
+  - Name: Level 1
+    Nodes:
+    - Position: {x: 309.79596, y: 580.408}
+      Type: 1
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 2263.325, y: 561.63684}
+      Type: 0
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 1106.9054, y: 743.9386}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1134.5269, y: 440.10233}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1502.8134, y: 576.3683}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 567.3657, y: 333.29926}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 690.7417, y: 611.35547}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 1793.7596, y: 220.9719}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 519.1837, y: 866.93866}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1668.5422, y: 847.05884}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 797.54474, y: 233.86194}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+  - Name: Level 2
+    Nodes:
+    - Position: {x: 309.79596, y: 580.408}
+      Type: 1
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 2152.8389, y: 775.243}
+      Type: 0
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 900.665, y: 834.1688}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 915.3964, y: 278.0563}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1326.0359, y: 858.1074}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1268.9514, y: 508.2353}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 897.551, y: 642.857}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 2268.849, y: 292.78775}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 519.1837, y: 866.93866}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1701.688, y: 554.2711}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 522.8572, y: 238.77542}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+  - Name: Level 3
+    Nodes:
+    - Position: {x: 228.54211, y: 578.2097}
+      Type: 1
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 2285.422, y: 274.3734}
+      Type: 0
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 1769.821, y: 545.06396}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1057.1868, y: 861.7903}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1725.6267, y: 145.47314}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1110.6123, y: 411.42847}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 897.551, y: 642.857}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 2132.5833, y: 788.133}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 519.1837, y: 866.93866}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 919.0793, y: 276.21487}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 508.43988, y: 167.57037}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+  - Name: Level 4
+    Nodes:
+    - Position: {x: 1933.7085, y: 766.0358}
+      Type: 1
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 1099.5397, y: 254.11768}
+      Type: 0
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 1767.9796, y: 160.20465}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1163.9897, y: 618.72125}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 567.3657, y: 156.52173}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1534.1177, y: 635.2941}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 1263.4271, y: 891.2532}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 861.9949, y: 806.5473}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 460.56262, y: 802.86444}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 2287.2634, y: 447.46805}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 582.09717, y: 530.33246}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+  - Name: Level 5
+    Nodes:
+    - Position: {x: 580.25574, y: 195.19183}
+      Type: 1
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 2193.3503, y: 716.31714}
+      Type: 0
+      StartUnits: 40
+      MaxUnits: 60
+    - Position: {x: 852.7877, y: 854.42456}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1556.2148, y: 200.71613}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1432.8389, y: 847.05884}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 676.0102, y: 537.6982}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 897.551, y: 642.857}
+      Type: 2
+      StartUnits: 10
+      MaxUnits: 20
+    - Position: {x: 2114.169, y: 254.11768}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 519.1837, y: 866.93866}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1718.2609, y: 668.4399}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 300.35803, y: 615.0383}
+      Type: 2
+      StartUnits: 20
+      MaxUnits: 40
+    - Position: {x: 1281.8414, y: 335.1407}
+      Type: 2
+      StartUnits: 40
+      MaxUnits: 50
